@@ -63,13 +63,13 @@ namespace App1
                     Address = _hosts[i],
                 };
 
-                pin.Id = "pin" + i;
                 map.Pins.Add(pin);
                 pin.Clicked += async (sender, e) =>
                 {
                     var p = sender as Pin;
                     Debug.WriteLine(p.Address);
-                    /* okay so
+                    /*
+                     * okay so
                      * 
                      * we need to query the database for this specific event to get all the information,
                      * because the pin is only storing hostname, lat, long, and title

@@ -33,7 +33,6 @@ C:\Users\Steven\source\repos\App1\App1\App1\bin\Debug\Xamarin.Forms.Maps.xml
 C:\Users\Steven\source\repos\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Steven\source\repos\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.csproj.App.config
-C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
 C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
 C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.App.xaml.g.cs
 C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.MasterDetailPage1.xaml.g.cs
@@ -44,7 +43,8 @@ C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.Pages.About.xaml.g.cs
 C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.Pages.NewItem.xaml.g.cs
 C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.Pages.Settings.xaml.g.cs
 C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.UsersList.xaml.g.cs
-C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.dll
-C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.pdb
 C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.MapPage.xaml.g.cs
 C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.Pages.EventInfo.xaml.g.cs
+C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.dll
+C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.pdb
+C:\Users\Steven\source\repos\App1\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache

@@ -1,6 +1,8 @@
 C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\App1.Android.dll.config
 C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\App1.Android.dll
 C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\App1.Android.pdb
+C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\com.denison.seshin.apk
+C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\com.denison.seshin-Signed.apk
 C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\App1.dll
 C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\FormsViewGroup.dll
 C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\PCLCrypto.dll
@@ -65,6 +67,7 @@ C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\App1.Android.cspro
 C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\App1.Android.csproj.CoreCompileInputs.cache
 C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\App1.Android.dll
 C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\App1.Android.pdb
+C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\android\bin\com.denison.seshin.apk
 C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\res\drawable\icon.png
 C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\res\drawable-hdpi\icon.png
 C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\res\drawable-xhdpi\icon.png
@@ -74,9 +77,6 @@ C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\res\layout\toolbar
 C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\res\values\styles.xml
 C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\R.cs.flag
 C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\uploadflags.txt
-C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\com.denison.seshin.apk
-C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\com.denison.seshin-Signed.apk
-C:\Users\Steven\source\repos\App1\App1\App1.Android\obj\Debug\android\bin\com.denison.seshin.apk
 C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\App1.dll.mdb
 C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\App1.Android.dll.mdb
 C:\Users\Steven\source\repos\App1\App1\App1.Android\bin\Debug\AWSSDK.Core.dll.mdb
