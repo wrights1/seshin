@@ -100,8 +100,15 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "App1.Android.dll" comes first in this list. */
 		"App1.Android.dll",
 		"App1.dll",
-		"AWSSDK.Core.dll",
 		"FormsViewGroup.dll",
+		"PCLCrypto.dll",
+		"PInvoke.BCrypt.dll",
+		"PInvoke.Kernel32.dll",
+		"PInvoke.NCrypt.dll",
+		"PInvoke.Windows.Core.dll",
+		"System.Net.Http.Extensions.dll",
+		"System.Net.Http.Primitives.dll",
+		"Validation.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",
@@ -120,13 +127,10 @@ class MonoPackageManager_Resources {
 		"Xamarin.GooglePlayServices.Basement.dll",
 		"Xamarin.GooglePlayServices.Maps.dll",
 		"AWSSDK.DynamoDBv2.dll",
-		"AWSSDK.CognitoIdentity.dll",
-		"AWSSDK.SecurityToken.dll",
-		"PCLCrypto.dll",
-		"Validation.dll",
-		"System.Net.Http.Primitives.dll",
+		"AWSSDK.Core.dll",
 		"PCLStorage.Abstractions.dll",
 		"PCLStorage.dll",
+		"Newtonsoft.Json.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

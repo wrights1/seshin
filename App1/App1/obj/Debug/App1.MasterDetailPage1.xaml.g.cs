@@ -18,13 +18,13 @@ namespace App1 {
         private global::App1.MasterDetailPage1Master MasterPage;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::App1.MasterDetailPage1Detail DetailPage;
+        private global::App1.MapPage MapPage;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MasterDetailPage1));
             MasterPage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::App1.MasterDetailPage1Master>(this, "MasterPage");
-            DetailPage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::App1.MasterDetailPage1Detail>(this, "DetailPage");
+            MapPage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::App1.MapPage>(this, "MapPage");
         }
     }
 }

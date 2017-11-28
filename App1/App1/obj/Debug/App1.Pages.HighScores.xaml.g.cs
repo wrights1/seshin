@@ -9,14 +9,16 @@
 //------------------------------------------------------------------------------
 
 namespace App1 {
+    using System;
+    using Xamarin.Forms;
+    using Xamarin.Forms.Xaml;
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Steven\\source\\repos\\App1\\App1\\App1\\Pages\\HighScores.xaml")]
     public partial class HighScores : global::Xamarin.Forms.ContentPage {
         
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(HighScores));
+            this.LoadFromXaml(typeof(HighScores));
         }
     }
 }

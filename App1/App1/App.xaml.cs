@@ -13,14 +13,14 @@ namespace App1
         {
             InitializeComponent();
 
-            //MainPage = new App1.MasterDetailPage1();
-            //MainPage = new App1.ContactListPage();
-            MainPage = new App1.DynamoDBList();
+            MainPage = new App1.MasterDetailPage1();
+            //MainPage = new App1.UsersList();
         }
 
         protected override void OnStart()
         {
             // Handle when your app starts
+
         }
 
         protected override void OnSleep()

@@ -9,7 +9,7 @@
   <MasterDetailPage.Detail>
     <NavigationPage>
       <x:Arguments>
-        <pages:MasterDetailPage1Detail x:Name="DetailPage" />
+        <pages:MapPage x:Name="MapPage" />
       </x:Arguments>
     </NavigationPage>
   </MasterDetailPage.Detail>

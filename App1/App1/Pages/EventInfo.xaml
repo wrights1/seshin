@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.EventInfo">
+    <ContentPage.Content>
+        <StackLayout>
+         <!--  <Label Text="Name:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+            <Label Text="{Binding title}" FontSize="Medium" FontAttributes="Bold" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Age:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+            <Label Text="{Binding description}" FontSize="Medium" FontAttributes="Bold" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Occupation:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+            <Label Text="{Binding hostname}" FontSize="Medium" FontAttributes="Bold" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Country:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+            <Label Text="{Binding stoptime}" FontSize="Medium" FontAttributes="Bold" />
+            -->
+            <Label Text="JSDFKJHSDFKJH" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

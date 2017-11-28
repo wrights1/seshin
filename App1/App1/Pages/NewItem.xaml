@@ -8,7 +8,9 @@
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <StackLayout>
-            <Entry Placeholder="Enter stuff" />
+            <Entry x:Name="username" Placeholder="Username" />
+            <Entry x:Name="first" Placeholder="First Name" />
+            <Entry x:Name="last" Placeholder="Last Name" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

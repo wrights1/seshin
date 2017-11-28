@@ -33,8 +33,8 @@ namespace App1
             {
                 MenuItems = new ObservableCollection<MasterDetailPage1MenuItem>(new[]
                 {
-                    new MasterDetailPage1MenuItem { Id = 0, Title = "Game" },
-                    new MasterDetailPage1MenuItem { Id = 1, Title = "High Scores" },
+                    new MasterDetailPage1MenuItem { Id = 0, Title = "Map" },
+                    new MasterDetailPage1MenuItem { Id = 1, Title = "Users" },
                     new MasterDetailPage1MenuItem { Id = 2, Title = "Settings" },
                     new MasterDetailPage1MenuItem { Id = 3, Title = "About" }
                     //new MasterDetailPage1MenuItem { Id = 4, Title = "Page 5" },

@@ -26,12 +26,12 @@ namespace App1
 
             if (item.Id == 0)
             {
-                Detail = new NavigationPage(new MasterDetailPage1Detail());
+                Detail = new NavigationPage(new MapPage());
             }
 
             if ( item.Id == 1)
             { 
-                Detail = new NavigationPage(new HighScores());
+                Detail = new NavigationPage(new UsersList());
             }
 
             if (item.Id == 2)
